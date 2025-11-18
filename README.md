@@ -9,8 +9,6 @@ digital clock project using python
 A clean, interactive 24-hour digital clock built with Python’s Tkinter framework.
 This app simulates a real digital clock with the ability to manually set hours, minutes, and seconds — great for learning GUI programming and time handling in Python.
 
-<img width="1838" height="917" alt="Andre&#39;s clock python project" src=["https://github.com/user-attachments/assets/ccd6ffc2-6cdc-49da-a3df-d4eafff9d2fb](https://github.com/MVUYEKURE-Andre/Digital-clock-24hours/" />
-
 
 🌟 Features
 Feature	Description
@@ -28,7 +26,7 @@ Digital-clock-24hours/
 
 🚀 Installation & Running
 1️⃣ Clone the repository
-git clone https://github.com/your-username/Digital-clock-24hours.git
+git clone https://github.com/MVUYEKURE-Andre/Digital-clock-24hours.git
 
 2️⃣ Navigate into the project
 cd Digital-clock-24hours
